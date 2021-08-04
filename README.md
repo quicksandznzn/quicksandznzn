@@ -6,7 +6,6 @@
 Greetings from China! 🇨🇳
 
 - ⚒️ Java/GitHub Actions, a little bit Python/Node.js
-- 🕷 Web crawling and more 	
-- 👨‍🔬 [INTP](https://www.16personalities.com/intp-personality)  personality
-
-
+- 🕷 Web Cawler
+- 🎬 [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino)
+- 🎙 [Eminem](https://en.wikipedia.org/wiki/Eminem)
