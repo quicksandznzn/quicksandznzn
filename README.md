@@ -7,5 +7,6 @@ Greetings from China! 🇨🇳
 
 - ⚒️ Java/GitHub Actions, a little bit Python/Node.js
 - 🕷 Web Cawler
-- 🎬 [Quentin Tarantino](https://en.wikipedia.org/wiki/Quentin_Tarantino)
-- 🎙 [Eminem](https://en.wikipedia.org/wiki/Eminem)
+- 🎬 [Quentin Tarantino](https://www.instagram.com/tarantinoxx/) Film Director
+- 🎙 [Eminem](https://www.instagram.com/eminem/) Rapper
+- 🏀 [Klay](https://www.instagram.com/klaythompson/) Basketball Player
