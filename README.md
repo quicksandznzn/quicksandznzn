@@ -12,4 +12,6 @@ Greetings from China! 🇨🇳
 - 🏀 [Klay](https://www.instagram.com/klaythompson/) Basketball Player ❤️
 
 
-
+#### :bar_chart: Weekly development breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
