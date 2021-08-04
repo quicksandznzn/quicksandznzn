@@ -5,8 +5,8 @@
 
 Greetings from China! 🇨🇳
 
-- ⚒️	Java/GitHub Actions, a little bit Python/JavaScript
-- 🐂	Respect Open Source
-- 🏃 🏃🏃🏃🏃🏃🏃🏃🏃
+- ⚒️ Java/GitHub Actions, a little bit Python/Node.js
+- 🕷 Web crawling and more 	
+- 👨‍🔬 [INTP](https://www.16personalities.com/intp-personality)  personality
 
 
