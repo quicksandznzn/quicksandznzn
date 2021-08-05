@@ -11,7 +11,7 @@ Greetings from China! 🇨🇳
 - 🕷 Web Cawler
 - 🎬 [Quentin Tarantino](https://www.instagram.com/tarantinoxx/) Film Director ❤️
 - 🎙 [Eminem](https://www.instagram.com/eminem/) Rapper ❤️
-- 🏀 [Klay](https://www.instagram.com/klaythompson/) [Curry](https://www.instagram.com/stephencurry30/) Basketball Player ❤️
+- 🏀 [Klay](https://www.instagram.com/klaythompson/) And [Curry](https://www.instagram.com/stephencurry30/) Basketball Player ❤️
 
 
 #### :bar_chart: Weekly development breakdown
