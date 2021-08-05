@@ -1,5 +1,5 @@
 ## Hey, quicksand here! 🏃
-[<img align="right" width="50%" src="https://quicksandznzn.github.io/image/warriors.jpg">](https://github.com/quicksandznzn)
+[<img align="right" width="50%" height='50%' src="https://quicksandznzn.github.io/image/warriors.jpg">](https://github.com/quicksandznzn)
 <!--
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=quicksandznzn&theme=dark&show_icons=true">](https://github.com/quicksandznzn)
 -->
