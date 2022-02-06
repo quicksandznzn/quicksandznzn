@@ -17,7 +17,6 @@ Greetings from China! 🇨🇳
 #### :bar_chart: Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Python       40 mins         ███████████████████████▒░   93.76 % 
-TypeScript   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
